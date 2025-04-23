@@ -12,6 +12,13 @@ class Expenses extends StatefulWidget {
 class _ExpensesState extends State<Expenses> {
   @override
   Widget build(BuildContext context) {
-    return const Text('The expense tracker!');
+    return Scaffold(
+      body: Column(
+        children: const [
+         Text('The cart'),
+         Text('Expenses List...'),
+        ],
+      ),
+    );
   }
 }
