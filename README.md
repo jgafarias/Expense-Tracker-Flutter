@@ -1,6 +1,14 @@
-# expense_tracker
+# Expense Tracker by Flutter
 
-A new Flutter project.
+A Flutter Project, I made this project based on [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
+
+# Demo
+
+<div align = "center">
+
+https://github.com/user-attachments/assets/35a675bb-80c1-4e04-b4d5-b53ad739f9d4
+
+</div>
 
 ## Getting Started
 
